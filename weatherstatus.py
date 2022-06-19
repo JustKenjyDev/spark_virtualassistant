@@ -1,0 +1,1 @@
+import python_weatherimport asyncioasync def weatherstatus(location):	weatherClient = python_weather.Client()	weather = await weatherClient.find(location)	return 'Het is momenteel' + str(weather.current.temperature) + 'graden celcius .'	await weatherClient.close()	await session.close()	await python_weather.close()		#Werkt nog niet compleet

@@ -14,10 +14,21 @@ All files need to be in the same folder as the brain.py script.
 - A configuration page (on local network)
   This will contain Connection to Wi-Fi, Connection to Spotify in a web interface
 - Catch all with integration of ChatGPT for the catchall answers
+- Auto dependancy installations
 
 # Your input
 
 Feel free to fork these source codes and add your options / ideas e.g. controlling things with Google Home.
+
+# PIP Installations:
+-  pip install SpeechRecognition
+-  pip install gtts
+-  pip install playsound
+-  pip install pyjokes
+-  pip install python_weather
+-  pip install deep-translator
+-  pip install pyyalm
+-  pip install wikipedia
 
 
 

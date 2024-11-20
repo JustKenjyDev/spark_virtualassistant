@@ -14,6 +14,7 @@ All files need to be in the same folder as the brain.py script.
 - A configuration page (on local network)
   This will contain Connection to Wi-Fi, Connection to Spotify in a web interface
 - Catch all with integration of ChatGPT for the catchall answers
+- Respeaker LED on reactions
 - Auto dependancy installations
 
 # Your input
